@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535322823 source:/Users/carloshuaman/Documents/GitHub/Ejercicio-1/Ej1/main.c
+	<stdio.h>
+	<stdlib.h>
+
